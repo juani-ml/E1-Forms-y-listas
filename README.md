@@ -1,6 +1,6 @@
 ## E1-Forms-y-listas
 
-# index -> Para Vercel y facilitar la navegación
+# index.html -> Para Vercel y facilitar la navegación
 
 # Los ejercicios se encuentran en /pages
 
